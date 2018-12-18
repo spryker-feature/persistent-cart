@@ -6,7 +6,7 @@
   "minimum-stability": "dev",
   "require": {
     "php": ">=7.1",
-    "spryker-feature/cart": "~2018.11.0",
-    "spryker/persistent-cart": "^1.4.0"
+    "spryker-feature/cart": "~2018.12.0",
+    "spryker/persistent-cart": "^1.4.2"
   }
 }
