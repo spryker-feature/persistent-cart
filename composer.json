@@ -8,5 +8,10 @@
     "php": ">=7.1",
     "spryker-feature/cart": "^201902.0",
     "spryker/persistent-cart": "^1.5.0"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "201902.x-dev"
+    }
   }
 }
