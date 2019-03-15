@@ -1,6 +1,6 @@
 # Spryker Feature: Persistent cart
 
-Ability to persist a cart between customer's sessions
+Ability to persist a cart between customer's sessions/
 
 ## Installation
 
