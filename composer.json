@@ -8,7 +8,7 @@
   "require": {
     "php": ">=7.1",
     "spryker-feature/cart": "^201906.0",
-    "spryker/persistent-cart": "^1.7.2"
+    "spryker/persistent-cart": "^2.0.0"
   },
   "extra": {
     "branch-alias": {
