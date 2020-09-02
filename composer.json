@@ -7,7 +7,7 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.2",
-    "spryker/persistent-cart": "^3.2.0"
+    "spryker/persistent-cart": "^3.4.0"
   },
   "extra": {
     "branch-alias": {
